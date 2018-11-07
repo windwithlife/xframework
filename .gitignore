@@ -7,7 +7,8 @@ yarn-error.log*
 
 ios/Build/
 android/Build/
-
+examples/ios/Build/
+examples/android/Build/
 
 # Runtime data
 pids
