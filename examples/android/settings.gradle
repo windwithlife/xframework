@@ -1,0 +1,5 @@
+rootProject.name = 'examples'
+include ':react-native-xframework'
+project(':react-native-xframework').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-xframework/android')
+
+include ':app'

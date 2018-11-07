@@ -1,0 +1,6 @@
+framework module xframework {
+  umbrella header "xframework.h"
+
+  export *
+  module * { export * }
+}
